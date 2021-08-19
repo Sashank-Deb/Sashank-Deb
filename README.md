@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img justify-content: "center" display="block"src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development+Engineer;UI/UX+Development+Engineer;Graphic+Designer+and+Photographer"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development+Engineer;UI/UX+Development+Engineer;Graphic+Designer+and+Photographer"/>
 </p>
 
 ---
