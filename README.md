@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! This is Sashank 👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/SsgDMnb.gif" height="200"/>
+  <img src="https://i.imgur.com/SsgDMnb.gif" height="100"/>
 </p>
 
 <p align="center">
