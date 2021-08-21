@@ -92,7 +92,8 @@
 
 <p align="center">
 <a href="https://github.com/Sashank-Deb">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sashank-Deb&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Sashank-Deb" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=Sashank-Deb&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Sashank-Deb" height=150px />
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sashank-Deb&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Sashank-Deb" height=150px/> -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=Sashank-Deb&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Sashank-Deb" height=150px />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashank-Deb&theme=gotham&hide_border=true" alt="Sashank-Deb"/>
 </a>
 </p>
