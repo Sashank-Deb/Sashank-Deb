@@ -36,8 +36,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![NextJS](https://img.shields.io/badge/next.js-05122A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Strapi](https://img.shields.io/badge/strapi-05122A?style=for-the-badge&logo=strapi&logoColor=purple)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
+![ChartJS](https://img.shields.io/badge/Chart.js-05122A?style=for-the-badge&logo=chartdotjs&logoColor=pink)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQl-05122A?style=for-the-badge&logo=graphql&logoColor=purple)&nbsp;
 ![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A.svg?style=for-the-badge&logo=firebase) 
 
@@ -65,6 +69,7 @@
 ![Photography](https://img.shields.io/badge/-Photography-05122A?style=for-the-badge&logo=photobucket)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=for-the-badge&logo=adobelightroom)&nbsp;
+https://img.shields.io/badge/VSCode-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 ![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator)
 
 <!-- 
