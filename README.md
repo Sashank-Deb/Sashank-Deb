@@ -32,6 +32,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-05122A?style=for-the-badge&logo=Jira&logoColor=0052CC)&nbsp;
+![BitBucket](https://img.shields.io/badge/Bitbucket-05122A?style=for-the-badge&logo=bitbucket&logoColor=0747a6)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 
