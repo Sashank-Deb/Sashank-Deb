@@ -69,12 +69,12 @@
 ![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=for-the-badge&logo=adobelightroom)&nbsp;
 ![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator)
 
-
+<!-- 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=iOS)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=for-the-badge&logo=macOS)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=for-the-badge&logo=macOS)&nbsp; -->
 
 ---
 
