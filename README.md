@@ -31,36 +31,29 @@
 
 ---
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-05122A.svg?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)
-![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-05122A.svg?style=for-the-badge&logo=css3)&nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-05122A.svg?style=for-the-badge&logo=html5)&nbsp; 
-![PHP](https://img.shields.io/badge/php-05122A.svg?style=for-the-badge&logo=php)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=for-the-badge&logo=jekyll)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass)
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
+![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebas-05122A.svg?style=for-the-badge&logo=firebase) 
-![Angular.js](https://img.shields.io/badge/angular.js-05122A.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-05122A.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-05122A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+![Angular.js](https://img.shields.io/badge/angular.js-05122A.svg?style=for-the-badge&logo=angularjs)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-05122A.svg?style=for-the-badge&logo=bootstrap)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=for-the-badge&logo=npm)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; 
+![React](https://img.shields.io/badge/react-05122A.svg?style=for-the-badge&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css)&nbsp; 	
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=orange) 
-![Notion](https://img.shields.io/badge/Notion-05122A.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
@@ -68,6 +61,8 @@
 
 
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=canva)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-05122A.svg?style=for-the-badge&logo=notion)&nbsp;
+![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma)&nbsp; 
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=for-the-badge&logo=blender)&nbsp;
 ![Photography](https://img.shields.io/badge/-Photography-05122A?style=for-the-badge&logo=photobucket)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop)&nbsp;
