@@ -23,6 +23,8 @@
 
 - 📄 [Chekout my Resume here](https://drive.google.com/file/d/1ExGETF3IFCrcEwe9JVoFGyn6kX5MSNj6/view?usp=sharing)
 
+[![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 ### 🛠 &nbsp;Tech Stack
 
@@ -107,9 +109,3 @@
   </a>
 </p>
 
----
-<p align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-</p>
