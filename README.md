@@ -103,3 +103,5 @@
     <img src="https://img.shields.io/badge/-Twitter-42C3F7?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
+---
+[![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
