@@ -57,6 +57,20 @@
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=for-the-badge&logo=jekyll)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 
+![CSS3](https://img.shields.io/badge/css3-05122A.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-05122A.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-05122A.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebas-05122A.svg?style=for-the-badge&logo=firebase) 
+![Angular.js](https://img.shields.io/badge/angular.js-05122A.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-05122A.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-05122A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-05122A.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=FFA518)&nbsp;
 ![MSSQL](https://img.shields.io/badge/-MS_SQL-05122A?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
