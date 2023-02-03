@@ -32,60 +32,60 @@
 ---
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)
 
-![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=flat&logo=chatbot)&nbsp;
-![Bot Framework](https://img.shields.io/badge/-Bot_Framework-05122A?style=flat&logo=probot)&nbsp;
-![Dialog flow](https://img.shields.io/badge/-Dialog_Flow-05122A?style=flat&logo=dialogflow)&nbsp;
-![RiveScript](https://img.shields.io/badge/-RiveScript-05122A?style=flat&logo=dependabot)
+![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
+![Bot Framework](https://img.shields.io/badge/-Bot_Framework-05122A?style=for-the-badge&logo=probot)&nbsp;
+![Dialog flow](https://img.shields.io/badge/-Dialog_Flow-05122A?style=for-the-badge&logo=dialogflow)&nbsp;
+![RiveScript](https://img.shields.io/badge/-RiveScript-05122A?style=for-the-badge&logo=dependabot)
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=dash)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+![Dash](https://img.shields.io/badge/-Dash-05122A?style=for-the-badge&logo=dash)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass)&nbsp;
+![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=for-the-badge&logo=jekyll)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MS_SQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![Elastic Search](https://img.shields.io/badge/-Elastic_Search-05122A?style=flat&logo=elastic&logoColor=skyblue)&nbsp;
-![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=FFA518)&nbsp;
+![MSSQL](https://img.shields.io/badge/-MS_SQL-05122A?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)&nbsp;
+![Elastic Search](https://img.shields.io/badge/-Elastic_Search-05122A?style=for-the-badge&logo=elastic&logoColor=skyblue)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=powerbi)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=for-the-badge&logo=powerbi)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=for-the-badge&logo=kibana)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=for-the-badge&logo=androidstudio)&nbsp;
 
 
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=audacity)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
-![Photography](https://img.shields.io/badge/-Photography-05122A?style=flat&logo=photobucket)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=flat&logo=adobelightroom)&nbsp;
-![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
-![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=flat&logo=photopea)&nbsp;
-![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=canva)&nbsp;
+![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=for-the-badge&logo=audacity)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=for-the-badge&logo=blender)&nbsp;
+![Photography](https://img.shields.io/badge/-Photography-05122A?style=for-the-badge&logo=photobucket)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop)&nbsp;
+![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=for-the-badge&logo=adobelightroom)&nbsp;
+![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator)&nbsp;
+![Photopea](https://img.shields.io/badge/-Photopea-05122A?style=for-the-badge&logo=photopea)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=for-the-badge&logo=gimp)
 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macOS)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=iOS)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=for-the-badge&logo=macOS)&nbsp;
 
 ---
 
@@ -104,15 +104,16 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<!-- <a href="https://srisatyalokesh.github.io"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a> -->
-<a href="mailto:sashankdebrgu7@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sashank-deb/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sashank_deb/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://facebook.com/srisatyalokesh2.12"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
-<a href="https://twitter.com/SashankDeb"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
-<!-- <a href="https://hackerrank.com/srisatyalokesh/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a> -->
-<!-- <a href="https://clubhouse.com/@srisatyalokesh/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a> -->
+  <a href="mailto:sashankdebrgu7@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sashank-deb/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sashank_deb/">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/SashankDeb">
+    <img src="https://img.shields.io/badge/-Twitter-42C3F7?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
-
-
-
