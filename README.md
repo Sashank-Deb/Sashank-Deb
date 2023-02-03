@@ -8,13 +8,10 @@
 </p>
 
 ---
-- 🔭 [I’m currently working on](https://github.com/Sashank-Deb/Rasa-chatbot) [Rasa](https://rasa.com/)
 
-- 🌱 I’m currently learning **Rasa, Bot framework, Angular and Vanilla Javascript**
+- 🌱 I’m currently learning **NextJS and GraphQL**
 
 - 👯 [I’m looking to collaborate on](https://sashank-deb.github.io/Covid-Management-Website/Covid%20Website/)
-
-- 🤝 [I’m looking for help with](https://github.com/)
 
 - 👨‍💻 [All of my projects are available here](https://github.com/Sashank-Deb)
 
@@ -22,11 +19,9 @@
 
 - 💻 [Checkout my Design Portfolio](https://www.behance.net/sashankdeb1)
 
-- 💬 Ask me about **React js, UI/UX, Machine Learning and Visualisation**
+- 💬 Ask me about **React js, UI/UX, JavaScript and Machine Learning**
 
 - 📄 [Chekout my Resume here](https://drive.google.com/file/d/1wOEAIBG7in7UPbgnNIVDUIFGTSmplLHD/view?usp=sharing)
-
-<!-- <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/> -->
 
 ---
 ### 🛠 &nbsp;Tech Stack
@@ -61,6 +56,7 @@
 ![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=for-the-badge&logo=npm)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; 
 ![React](https://img.shields.io/badge/react-05122A.svg?style=for-the-badge&logo=react)&nbsp;
+![React](https://img.shields.io/badge/shopify-05122A?style=for-the-badge&logo=Shopify&logoColor=8DB543)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=for-the-badge&logo=tailwind-css)&nbsp; 	
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=orange) 
 
