@@ -37,7 +37,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
 ![Bot Framework](https://img.shields.io/badge/-Bot_Framework-05122A?style=for-the-badge&logo=probot)&nbsp;
 ![Dialog flow](https://img.shields.io/badge/-Dialog_Flow-05122A?style=for-the-badge&logo=dialogflow)&nbsp;
