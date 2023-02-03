@@ -65,11 +65,10 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=canva)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-05122A.svg?style=for-the-badge&logo=notion)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma)&nbsp; 
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=for-the-badge&logo=blender)&nbsp;
 ![Photography](https://img.shields.io/badge/-Photography-05122A?style=for-the-badge&logo=photobucket)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-Lightroom-05122A?style=for-the-badge&logo=adobelightroom)&nbsp;
-![vsCode](https://img.shields.io/badge/VSCode-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![vsCode](https://img.shields.io/badge/VSCode-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=purple)&nbsp;
 ![Illutrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator)
 
 <!-- 
