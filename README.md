@@ -43,7 +43,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 ![Rasa](https://img.shields.io/badge/-Rasa-05122A?style=for-the-badge&logo=chatbot)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A.svg?style=for-the-badge&logo=firebase) 
 
 ![Angular.js](https://img.shields.io/badge/angular.js-05122A.svg?style=for-the-badge&logo=angularjs&logoColor=orange)&nbsp;
