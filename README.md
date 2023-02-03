@@ -47,6 +47,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-05122A.svg?style=for-the-badge&logo=css3)&nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-05122A.svg?style=for-the-badge&logo=html5)&nbsp; 
+![Ghost](https://img.shields.io/badge/Ghost-05122A?style=for-the-badge&logo=ghost&logoColor=yellow)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&logo=sass)
 
 ![Angular.js](https://img.shields.io/badge/angular.js-05122A.svg?style=for-the-badge&logo=angularjs&logoColor=orange)&nbsp;
