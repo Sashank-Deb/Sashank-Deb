@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React js, UI/UX, JavaScript and Machine Learning**
 
-- 📄 [Chekout my Resume here](https://drive.google.com/file/d/1wOEAIBG7in7UPbgnNIVDUIFGTSmplLHD/view?usp=sharing)
+- 📄 [Chekout my Resume here](https://drive.google.com/file/d/1ExGETF3IFCrcEwe9JVoFGyn6kX5MSNj6/view?usp=sharing)
 
 ---
 ### 🛠 &nbsp;Tech Stack
