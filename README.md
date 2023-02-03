@@ -3,6 +3,8 @@
   <img src="https://i.imgur.com/SsgDMnb.gif" height="150"/>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Development+Engineer;UI/UX+Development+Engineer;Graphic+Designer+and+Photographer"/>
 </p>
@@ -22,8 +24,6 @@
 - 💬 Ask me about **React js, UI/UX, JavaScript and Machine Learning**
 
 - 📄 [Chekout my Resume here](https://drive.google.com/file/d/1ExGETF3IFCrcEwe9JVoFGyn6kX5MSNj6/view?usp=sharing)
-
-[![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ### 🛠 &nbsp;Tech Stack
