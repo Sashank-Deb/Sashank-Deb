@@ -12,7 +12,7 @@
 
 ---
 
-- 👨‍💻 [Checkout out my Website here](sashank-deb.github.io/Profile/)
+- 👨‍💻 [Checkout out my Website here](https://sashank-deb.github.io/Profile/)
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
 
