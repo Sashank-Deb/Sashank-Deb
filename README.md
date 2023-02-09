@@ -12,11 +12,11 @@
 
 ---
 
+- 👨‍💻 [Checkout out my Website here](sashank-deb.github.io/Profile/)
+
 - 🌱 I’m currently learning **NextJS and GraphQL**
 
 - 👯 [I’m looking to collaborate on](https://sashank-deb.github.io/Covid-Management-Website/Covid%20Website/)
-
-- 👨‍💻 [All of my projects are available here](https://github.com/Sashank-Deb)
 
 <!-- - 📝 I regularly write articles on [Your Website](https://mobie.tech/) -->
 
