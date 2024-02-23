@@ -1,6 +1,7 @@
 <h1 align="center">Hello World! This is Sashank 👋</h1>
 
 [![](https://visitcount.itsvg.in/api?id=aj-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sashank-Deb&label=Hey%20kjdalksjdlasjd&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://i.imgur.com/SsgDMnb.gif" height="150"/>
